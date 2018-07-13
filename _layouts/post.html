@@ -37,6 +37,23 @@
     <article class="markdown-body">
       {{ page.content }}
     </article>
+	
+	<!-- 来必力评论系统 -->
+	 <div id="lv-container" data-id="city" data-uid="MTAyMC8zODAxNS8xNDU0NQ==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+	</div>
 
     {% if site.social-share %}
     <div class="social-share-wrapper">
@@ -44,6 +61,10 @@
     </div>
     {% endif %}
   </div>
+  
+  
+
+
 
   <section class="author-detail">
     <section class="post-footer-item author-card">
@@ -117,8 +138,9 @@
     });
   </script>
 
-  {% if site.comments.disqus %}
-  <script>
+    <!-- 注释此处disqus的评论js
+   {% if site.comments.disqus %}
+   <script>
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
@@ -140,7 +162,12 @@
   {% endif %}
 
   <script src="/assets/js/prism.js"></script>
-  <script src="/assets/js/index.min.js"></script>
+  <script src="/assets/js/index.min.js"></script> -->
+  
+
+  
+  
+  
 </body>
 
 </html>
