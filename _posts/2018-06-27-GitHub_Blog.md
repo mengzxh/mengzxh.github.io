@@ -4,7 +4,7 @@ title: 'GitHub Blog搭建过程'
 subtitle: ''
 date: 2018-6-27
 categories: 技术
-cover: 'https://s1.ax1x.com/2018/06/27/PP2AQe.jpg'
+cover: '/cover_img/material-5.png'
 tags: jekyll github 博客 域名
 ---
 
@@ -45,4 +45,4 @@ tags: jekyll github 博客 域名
 
 [GoDaddy最新域名解析教程（中文版）](http://godaddy.idcspy.com/godaddy-jx)
 
-$H_2O主题$: [链接](https://github.com/kaeyleo/jekyll-theme-H2O)
+[$H_2O主题$](https://github.com/kaeyleo/jekyll-theme-H2O)
