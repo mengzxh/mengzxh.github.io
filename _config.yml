@@ -2,7 +2,7 @@
 title: '柯烨的独立博客'
 description: 'Python开发者,热爱技术。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '后端开发, Python, Flask, javascript, Mongodb, Redis, 爬虫技术'
-url: 'https://www.keye.work'
+url: 'https://blog.keye.work'
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
