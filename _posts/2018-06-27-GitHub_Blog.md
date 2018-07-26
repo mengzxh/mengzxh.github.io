@@ -8,7 +8,7 @@ cover: '/cover_img/material-5.png'
 tags: jekyll github 博客 域名
 ---
 
-​       建立博客的初衷是为了督促自己学习，博客主要发布自己的读书的相关笔记和工作心得。主要内容包括：Python基础知识笔记，Python爬虫框架，Python web， 大数据技术入门，机器学习入门基础。对博客内容感兴趣的可以收藏网站。也可以在每篇文章中进行评论留言。
+&emsp;&emsp;建立博客的初衷是为了督促自己学习，博客主要发布自己读书的相关笔记和工作心得。主要内容包括：Python基础知识笔记，Python爬虫框架，Python web， 大数据技术入门，机器学习入门基础。对博客内容感兴趣的可以收藏网站，也可以在每篇文章中进行评论留言。
 
 
 
@@ -45,4 +45,4 @@ tags: jekyll github 博客 域名
 
 [GoDaddy最新域名解析教程（中文版）](http://godaddy.idcspy.com/godaddy-jx)
 
-[$H_2O主题$](https://github.com/kaeyleo/jekyll-theme-H2O)
+[H_2O主题](https://github.com/kaeyleo/jekyll-theme-H2O)
