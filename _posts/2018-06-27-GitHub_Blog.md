@@ -45,4 +45,4 @@ tags: jekyll github 博客 域名
 
 [GoDaddy最新域名解析教程（中文版）](http://godaddy.idcspy.com/godaddy-jx)
 
-[H_2O主题](https://github.com/kaeyleo/jekyll-theme-H2O)
+[$H_2O主题$](https://github.com/kaeyleo/jekyll-theme-H2O)
