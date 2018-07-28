@@ -4,7 +4,7 @@ title: 'Python字符串'
 subtitle: ''
 date: 2018-07-19
 categories: 技术
-cover: '/cover_img/material-2.png'
+cover: '/cover_img/python_zifuchuan.jpg'
 tags: Python
 ---
 
