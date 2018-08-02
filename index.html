@@ -49,9 +49,9 @@ header-img: /assets/img/hero.jpg
 							 <span class="post-meta-item-text">阅读量:  </span>
 							 <span class="leancloud-visitors-count"></span>
 						</span>
+					{% endif %}
                     <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
-									
-				{% endif %}
+				
                 </footer>
 
             </article>
