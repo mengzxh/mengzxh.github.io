@@ -21,6 +21,14 @@
       <div class="post-meta">
         <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="{{ site.url }}" target="_blank" rel="author">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a></></span>
         <time class="post-meta-item" datetime="{{ page.date | date:"%y-%m-%d" }}"><i class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+		<!-- 此处放置显示阅读量的模块 -->
+		{% if site.leancloud.enable %}
+			<span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
+				<i class="iconfont icon-search"></i>
+				<!--<span class="post-meta-item-text"> views:  </span>-->
+				<span class="leancloud-visitors-count" color="#fff"></span>
+			</span>
+		{% endif %}
       </div>
     </div>
     {% if page.cover %}

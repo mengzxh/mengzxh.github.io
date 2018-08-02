@@ -78,3 +78,9 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+# 文章浏览量
+leancloud:
+  enable: true
+  app_id: EgcFYnlRd3eACFGjN2bupTn0-gzGzoHsz
+  app_key: loiURt7SPFdVQDLySQnaWDgs
