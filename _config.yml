@@ -20,7 +20,7 @@ footer:
 author: '柯烨'
 # nickname: 'ky'
 bio: 'Python开发工程师，热爱技术'
-avatar: '/assets/img/profile.jpg'
+avatar: 'http://pcvbh7x9b.bkt.clouddn.com/img/profile.jpg'
 
 # Search
 search: true
