@@ -4,7 +4,7 @@ title: 'Python爬虫工程师学习路径'
 subtitle: ''
 date: 2018-08-09
 categories: 技术
-cover: 'http://pcvbh7x9b.bkt.clouddn.com/img/python_cralwer_learn.jpg'
+cover: 'https://pcvbh7x9b.bkt.clouddn.com/img/python_cralwer_learn.jpg'
 tags: Python 爬虫 抓包 
 ---
 
