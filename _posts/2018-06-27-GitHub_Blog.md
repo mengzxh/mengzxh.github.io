@@ -4,7 +4,7 @@ title: 'GitHub Blog搭建过程'
 subtitle: ''
 date: 2018-6-27
 categories: 技术
-cover: 'https://pcvbh7x9b.bkt.clouddn.com/img/github.jpg'
+cover: 'http://pcvbh7x9b.bkt.clouddn.com/img/github.jpg'
 tags: jekyll github 博客 域名
 ---
 
