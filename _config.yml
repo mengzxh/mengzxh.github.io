@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '柯烨的独立博客'
+title: '叶子博客'
 description: 'Python开发者,热爱技术。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '后端开发, Python, Flask, javascript, Mongodb, Redis, 爬虫技术'
 url: 'https://blog.keye.work'
@@ -17,7 +17,7 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: '柯烨'
+author: '叶子'
 # nickname: 'ky'
 bio: 'Python开发工程师，热爱技术'
 avatar: 'http://pcvbh7x9b.bkt.clouddn.com/img/profile.jpg'
